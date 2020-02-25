@@ -24,10 +24,10 @@ public class Square {
         byte maxColor=(byte)255;
         byte colors[] =
                 {
-                        0, 0, 0, maxColor,
-                        0, 0, maxColor, maxColor,
-                        0, 0, 0, maxColor,
-                        0, 0, maxColor, maxColor,
+                        66, 66, 0, maxColor,
+                        0, 64, maxColor, maxColor,
+                        77, 25, 0, maxColor,
+                        0, 90, maxColor, maxColor,
                 };
 
         byte indices[] =
